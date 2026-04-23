@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(38, 43, 40);
+    text-align: center;
+    color: rgb(200, 204, 78);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    h1{
+        font: sans-serif;
+        font-size: 50px;
+        margin: auto;
+        padding: 1.5rem;
+    }
+    p{
+        font-size: 15px;
+        margin: auto;
+        padding: 1rem;
+    }
+    h1{
+        border: 1px;
+        border-color: rgb(195, 25, 33);
+        border-style: dotted;
+        background-color: rgb(187, 43, 43);
+    }
