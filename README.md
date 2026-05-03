@@ -1,2 +1,2 @@
 Hi 
-In this repo i shared  html small programs which i learnerd and created.
+In this repo shared  html small programs which i learned and created.
